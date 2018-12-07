@@ -9,14 +9,9 @@ El recorrido de la pila tambien podria realizarce con un while "while(pila.size!
 
 Al final imprimeremos los valores que furon enviados a la pila y cola, y mostraremos como estos sevisualizan al recorrerlas.
  */
-package Listas;
 
 import java.io.FileNotFoundException;
 
-/**
- *
- * @author Arismendys Marte
- */
 public class ColaPilaenLista {
     
     
