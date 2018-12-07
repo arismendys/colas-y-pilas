@@ -1,7 +1,13 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+En esta clase crearemos una cola y una pila con y luego la llenaremos con los valores de dos arreglos de enteros,
+luego de esto recorreremos la pila y la cola para añadir sus valores a una lista.
+
+Se recomienda dar un vistazo al recorrido de la pila ya que este for se hace con decrecimiento de la unidad y no con
+aumento de la unidad puesto que el metodo pop de la pila va disminuyendo su tamaño cada vez que extrae un nodo.
+
+El recorrido de la pila tambien podria realizarce con un while "while(pila.size!=0)"
+
+Al final imprimeremos los valores que furon enviados a la pila y cola, y mostraremos como estos sevisualizan al recorrerlas.
  */
 package Listas;
 
